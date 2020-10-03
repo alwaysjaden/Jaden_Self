@@ -1,0 +1,15 @@
+<Style>
+    h1 {
+        font-size: 60px;
+        text-align: center;
+        margin-bottom: 0px;
+        text-decoration: underline;
+        background-color: gray;
+    }
+    li {
+        text-align: Left;
+    }
+    table {
+        background-color: ivory;
+    }
+</style>
