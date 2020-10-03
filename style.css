@@ -10,6 +10,10 @@
         text-align: Left;
     }
     table {
-        background-color: ivory;
+        background-color: teal;
+        width: 100%;
+        height: 200px;
     }
-
+    td {
+        vertical-align: top;
+    }
